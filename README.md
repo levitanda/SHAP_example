@@ -12,13 +12,13 @@ To get started, you need to install the required dependencies. You can install t
 
 ```bash
 pip install shap
+```
 
 
-
-## Add any other dependencies as needed
+## SHAP documentation
 For specific instructions, refer to the official SHAP documentation: [SHAP Documentation](https://shap.readthedocs.io/en/latest/index.html)
 
-Usage
+## Usage
 To use SHAP in your machine learning projects, follow these general steps:
 
 Train your model: Train your machine learning model using a library of your choice (e.g., scikit-learn, XGBoost, TensorFlow).
